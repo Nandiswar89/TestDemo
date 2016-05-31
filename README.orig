@@ -1,0 +1,11 @@
+:q
+next
+add one more text
+new clone -- file edited
+original file edited after editing the clone
+<<<<<<< HEAD
+change in first branch
+second change in first branch
+=======
+third branch edited
+>>>>>>> third_branch_master
